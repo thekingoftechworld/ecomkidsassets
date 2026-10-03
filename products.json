@@ -1,0 +1,15 @@
+{
+  "slideshow": [
+    { "image": "https://pin.it/1VT8RlQC7", "link": "https://cosmofeed.com/vp/..." },
+    { "image": "https://pin.it/1VT8RlQC7", "link": "https://cosmofeed.com/vp/..." }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Digital Product Name 1",
+      "price": "₹299",
+      "image": "https://pin.it/1VT8RlQC7",
+      "cosmofeedLink": "https://cosmofeed.com/vp/..."
+    }
+  ]
+}
